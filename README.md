@@ -22,7 +22,7 @@ message->Allen //to a specific client whose username is Allen
 ```
 - [x] Clinet will always receive messages and display them on the right side
 - [x] Client can set up a username
-![] (./resource/set_username.png)
+![] (https://github.com/Allenzzp/client_Server_extensionW2D3/blob/main/resource/set_username.png)
 - [x] Client can choose which online user to start chat
 
 ## What Next?
