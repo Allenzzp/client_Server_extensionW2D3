@@ -6,23 +6,19 @@ However, I felt not familiar with the net and readline modules, so I decided to 
 ## New Features
 - [x] Both clients & server support readline
 - [x] Client can talkt with each other by using talk
-```js
-//on clinet side
-talk
-        Server
-        Who do you want to talk with?
-        Allen Amy Brian
-Allen
-```
-- [x] Server can choose to send messages to all clients or to a specific clinet
-```js
-//on server side
-message //to all clinets
-message->Allen //to a specific client whose username is Allen
-```
+![](https://github.com/Allenzzp/client_Server_extensionW2D3/blob/main/resource/talk_between_clients1.png)
+![](https://github.com/Allenzzp/client_Server_extensionW2D3/blob/main/resource/talk_between_clients2.png)
+- [x] Server can send messages to all clients
+![](https://github.com/Allenzzp/client_Server_extensionW2D3/blob/main/resource/server_mesg2all1.png)
+![](https://github.com/Allenzzp/client_Server_extensionW2D3/blob/main/resource/server_mesg2all2.png)
+- [x] Server can send messages to a specific client
+![](https://github.com/Allenzzp/client_Server_extensionW2D3/blob/main/resource/server_mesg2oneClient.png)
 - [x] Clinet will always receive messages and display them on the right side
 - [x] Client can set up a username
 ![sample_pic](https://github.com/Allenzzp/client_Server_extensionW2D3/blob/main/resource/set_username.png)
 - [x] Client can choose which online user to start chat
 
 ## What Next?
+- [] Allow more than 2 clients talk together
+- [] Server can send messages to more than 1 clients but not all of clients
+To be continued...

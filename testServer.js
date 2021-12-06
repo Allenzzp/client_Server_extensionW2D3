@@ -101,7 +101,6 @@ const server = net.createServer((socket) => {
 //server to client
 //when there are two clients connected with server! rl.on will be called twice!
 rl.on("line", (line) => {
-  console.log("line read is:", line);
 
   const receivedArr = line.split("->");
   const message = receivedArr[0];
