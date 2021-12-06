@@ -16,9 +16,8 @@ However, I felt not familiar with the net and readline modules, so I decided to 
 - [x] Clinet will always receive messages and display them on the right side
 - [x] Client can set up a username
 ![sample_pic](https://github.com/Allenzzp/client_Server_extensionW2D3/blob/main/resource/set_username.png)
-- [x] Client can choose which online user to start chat
 
 ## What Next?
-- [] Allow more than 2 clients talk together
-- [] Server can send messages to more than 1 clients but not all of clients
-To be continued...
+- [ ] Allow more than 2 clients talk together
+- [ ] Server can send messages to more than 1 clients but not all of clients
+### To be continued...
